@@ -2,7 +2,6 @@ import streamlit as st
 import numpy as np
 import statsmodels.formula.api as smf
 import statsmodels.api as sm
-import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
 

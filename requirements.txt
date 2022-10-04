@@ -1,0 +1,6 @@
+streamlit
+numpy
+statsmodels.formula.api
+statsmodels.api
+pandas
+matplotlib.pyplot
